@@ -126,7 +126,7 @@ class ImagePrinter extends Printer {
 
 ```
 
-## 4. Conclusion
+## 5. Conclusion
 
 In conclusion, adopting Object-Oriented Programming principles is essential for the successful refactoring of complex code. Encapsulation, inheritance, and polymorphism are essential for enhancing code quality, promoting reusability, and facilitating future development. The code snippets provided serve as examples of how these principles can be applied in a real-world project. As a newcomer, understanding and implementing these concepts will contribute to the ongoing improvement of the project's codebase.
 

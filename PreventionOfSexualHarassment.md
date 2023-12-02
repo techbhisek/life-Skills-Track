@@ -1,6 +1,6 @@
 # Prevention of Sexual Harassment Answers
 
-1. **What kinds of behaviour cause sexual harassment?**
+ **1 .What kinds of behaviour cause sexual harassment?**
 
     Sexual harassment encompasses various unwelcome behaviors of a sexual nature that are severe or pervasive and can create a hostile work environment. The three main forms of sexual harassment are verbal, visual, and physical.
 
@@ -22,7 +22,7 @@
        - Inappropriate touching, such as kissing, hugging, patting, stroking, or rubbing.
        - Leering or staring.
   
-2. **What would you do in case you face or witness any incident or repeated incidents of such behaviour?**
+**2. What would you do in case you face or witness any incident or repeated incidents of such behaviour?**
 
     In the case of facing or witnessing any incident or repeated incidents of workplace bullying and harassment, take the following steps:
 

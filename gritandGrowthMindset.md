@@ -2,7 +2,7 @@
 
 #### 1. Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words.
 
-The speaker, a former teacher turned psychologist, emphasizes the importance of grit – passion and perseverance for long-term goals – in predicting success across various contexts, such as education and career. Grit, unlike IQ or talent, proves to be a significant factor in achievement. While the speaker acknowledges the uncertainty in understanding how to build grit, he suggests that a growth mindset, believing in the malleability of one's ability to learn, is a promising approach to fostering grit in individuals, especially in children.
+The importance of grit – passion and perseverance for long-term goals – in predicting success across various contexts, such as education and career. Grit, unlike IQ or talent, proves to be a significant factor in achievement. While the speaker acknowledges the uncertainty in understanding how to build grit, believing in the malleability of one's ability to learn, is a promising approach to fostering grit in individuals, especially in children.
 
 ---
 

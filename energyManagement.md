@@ -48,7 +48,7 @@ feel energized and motivated, experience a sense of flow, fully engaged in the p
 
 ---
 
-#### Q7. What are some steps you can take to exercise more?
+#### 7. What are some steps you can take to exercise more?
  - Integrate physical activities into your daily routine, such as walking, cycling, or stairs.
  - Opt for exercises you find enjoyable to enhance motivation and make fitness more enjoyable.
  - Set a consistent workout schedule to develop a habit and maintain regular exercise.

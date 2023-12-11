@@ -1,7 +1,7 @@
 ## __Energy Management__
 
 #### 1. What are the activities you do that make you relax - Calm quadrant?
-Deep breathing, counting numbers, practicing meditation and mindfulness techniques and yoga are some of the activities that can help me to calm my mind and reduce stress. It's a great way to stay in the Calm quadrant.
+Solving Rubik's cube,taking a walk, doing yoga are few activities which helps me in relax.
 
 ---
 
@@ -42,11 +42,10 @@ Maintaining regular sleeping patterns coupled with a cool and comfortable enviro
 ---
 
 #### Q7. What are some steps you can take to exercise more?
- - Set goals.
- - Schedule workouts.
- - Choose enjoyable activities.
- - Start small, then progress.
- - Track progress.
- - Reward yourself.
+ -  Integrate physical activities into your daily routine, such as walking, cycling, or taking the stairs.
+ - Choose Enjoyable Activities: Opt for exercises you find enjoyable to enhance motivation and make fitness more enjoyable.
+ - Establish a Regular Routine: Set a consistent workout schedule to develop a habit and maintain regular exercise.
+ - Join Group Activities: Participate in fitness classes or group exercises for social support and an engaging experience.
+ - Set Realistic Goals: Define achievable fitness goals to stay motivated and track your progress effectively.
 
 ---
